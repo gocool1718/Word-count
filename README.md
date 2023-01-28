@@ -31,8 +31,9 @@ print("Number of words in a file = {}".format(num_words))
 ```
 
 ### OUTPUT:
-/home/sec/Pictures/Screenshots/word count.png
 
+
+![word count](https://user-images.githubusercontent.com/121148715/215275544-4b68c7e6-ec70-448a-87b5-9867df98355c.png)
 
 
 ## RESULT:
